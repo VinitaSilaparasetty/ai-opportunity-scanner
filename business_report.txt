@@ -1,0 +1,35 @@
+
+Q2 2025 Business Operations Report
+
+Overview:
+The past quarter saw continued growth in user acquisition and customer engagement. However, several operational inefficiencies continue to hinder scalability across departments.
+
+1. Sales & Marketing:
+- Our sales representatives spend approximately 35% of their time on manual data entry and CRM updates.
+- Lead scoring is still a manual process, resulting in delayed follow-ups and missed opportunities.
+- Ad campaigns are optimized based on static rules rather than dynamic insights, resulting in a low return on ad spend (ROAS).
+
+2. Finance:
+- Budget forecasting relies heavily on spreadsheets and manual reconciliation.
+- Invoicing errors have led to a 4% revenue leakage.
+- Accounts payable and receivable tracking is prone to human error, delaying monthly closings.
+
+3. Customer Support:
+- Customer service queries increased by 27% compared to the previous quarter.
+- Most tickets are categorized manually, leading to inconsistent tagging and slower response times.
+- There is no unified knowledge base, and agents rely on tribal knowledge.
+
+4. Product Development:
+- Bug triaging and prioritization are currently handled via Slack and Excel.
+- Feature requests from customers are not automatically categorized or fed into the product roadmap.
+
+5. Human Resources:
+- Resume screening for open roles is entirely manual and takes an average of 14 days.
+- Employee engagement surveys are conducted quarterly, but analysis takes up to two weeks to finalize.
+
+Opportunities:
+There is a pressing need to automate repetitive tasks, optimize decisions using data, and build scalable internal tooling to prepare for expansion into new markets.
+
+Prepared by:
+Strategy and Operations Team
+July 2025
